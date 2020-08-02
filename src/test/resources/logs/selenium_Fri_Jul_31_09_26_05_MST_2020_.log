@@ -1,0 +1,3 @@
+09:26:05,200 DEBUG devpinoyLogger:20 - Inside Login Test
+09:26:07,372 DEBUG devpinoyLogger:30 - Login successfully executed
+09:26:08,210  INFO devpinoyLogger:89 - Testing done!!!

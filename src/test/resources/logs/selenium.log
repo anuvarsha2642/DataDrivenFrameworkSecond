@@ -1,0 +1,5 @@
+16:59:15,005 DEBUG devpinoyLogger:37 - Configuration file loaded
+16:59:15,007 DEBUG devpinoyLogger:48 - Page object Properties file loaded
+16:59:23,013 DEBUG devpinoyLogger:14 - Inside Login Test
+16:59:25,105 DEBUG devpinoyLogger:23 - Login successfully executed
+16:59:25,812  INFO devpinoyLogger:89 - Testing done!!!
